@@ -15,7 +15,7 @@
             <div class="form-block background-container">
                 <div class="row">
                     <div class="col-md-12 text-thin text-muted">
-                        <h1>Índice de Massa Corporal</h1>
+                        <h1>Calculadora de IMC</h1>
                     </div>
                 </div>
                 <div class="row">
