@@ -56,7 +56,8 @@
                                 } else {
                                     status = "Obesidade grau 3";
                             }
-                                out.println("<h4>" + imc + " - " + status + "</h4>");
+                                String imcStr = String.format("%.2f", imc);
+                                out.println("<h4>" + imcStr + " - " + status + "</h4>");
                             }
                         %>
                     </div>
