@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [08/May/2019:22:55:10 -0300] "GET /dsw20191-imc-dynamic/ HTTP/1.1" 200 2107 http-bio-9090-exec-1 2324
+0:0:0:0:0:0:0:1 - - [08/May/2019:22:55:10 -0300] "GET /dsw20191-imc-dynamic/css/style.css HTTP/1.1" 200 1072 http-bio-9090-exec-2 6
+0:0:0:0:0:0:0:1 - - [08/May/2019:22:55:11 -0300] "GET /dsw20191-imc-dynamic/images/imc.jpg HTTP/1.1" 200 40507 http-bio-9090-exec-3 9
+0:0:0:0:0:0:0:1 - - [08/May/2019:22:55:18 -0300] "GET /dsw20191-imc-dynamic/?peso=50&altura=1.78 HTTP/1.1" 200 2143 http-bio-9090-exec-4 7
